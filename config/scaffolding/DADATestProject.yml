@@ -16,3 +16,11 @@ services:
   packages:
   - name: WmPublic
     version: 11.1.0.0.2064
+- serviceName: project.dadatest.integrations:multiplyInts
+  packages:
+  - name: DADATestProject
+    version: "1.0"
+- serviceName: pub.math:multiplyInts
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.2064
