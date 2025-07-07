@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: DADATestProject
+  gitServerName: DADATest
+  gitUrl: https://github.com/HCLwMCOE
+  gitUsername: HCLwMCOE
+  gitBranch: main
