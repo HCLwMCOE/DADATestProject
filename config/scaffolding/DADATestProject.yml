@@ -7,6 +7,9 @@ packages:
   gitUrl: https://github.com/HCLwMCOE
   gitUsername: HCLwMCOE
   gitBranch: main
+- name: WmAmazonRDSProvider
+  wpmServer: https://packages.webmethods.io
+  wpmRegistry: supported
 services:
 - serviceName: project.dadatest.integrations:helloWorld
   packages:
